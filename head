@@ -1,0 +1,19 @@
+<head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-47026657-31"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-47026657-31');
+</script>
+<meta charset="utf-8">
+<!-- SNB_META -->
+<title>A Day in the life of Parag</title>
+<meta name="description" content="This website is a journal I keep to help me gain perspective on recurring themes in my life.">
+<!-- /SNB_META -->
+<meta name="author" content="Parag">
+<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
