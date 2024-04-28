@@ -55,4 +55,4 @@ If you found, the software useful, you can star my repo. Happy Journaling!
 
 # Demo
 
-[Skin n' Bones CMS Demo](https://journal.pmagunia.com)
+[Skin n' Bones CMS Demo](https://skin-n-bones.pmagunia.com)
