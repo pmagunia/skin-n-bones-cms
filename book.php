@@ -18,7 +18,7 @@ if (is_file("head")) {
 }
 
 # Replace default metatags if they are set
-if (is_file("src/$file.meta")) {
+if (isset($file) && is_file("src/$file.meta")) {
   $pattern = '/<!-- SNB_META -->(.*)<!-- \/SNB_META -->' . PHP_EOL . '/s';
   $replacement = file_get_contents("src/$file.meta");
   $book .= preg_replace($pattern, $replacement, $head);
